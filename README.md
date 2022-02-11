@@ -1,9 +1,10 @@
-## Hi, I’m Ann-Sofie @sofie-a
-- I’m interested in Frontend and fullstack development 
-- I’m currently learning Java & Flutter
-- I’m looking to collaborate on open projects :)
+## Hi 👋  I’m Ann-Sofie @sofie-a
 
+Welcome to the page of a curious problem solver. I enjoy fighting with terminals and requests because the end result is worth it (atleast almost always 😅)
 
+Please check out my project to get a sneak peak into what has been keeping me busy lately 
+
+See you around in the coding universe 👩🏽‍💻
 <!---
 sofie-a/sofie-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
