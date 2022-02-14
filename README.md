@@ -1,4 +1,5 @@
-## Hi 👋  I’m Ann-Sofie @sofie-a
+## Hi 👋 
+## I’m Ann-Sofie 
 
 Welcome to the page of a curious problem solver. I enjoy fighting with terminals and requests because the end result is worth it (atleast almost always 😅)
 
