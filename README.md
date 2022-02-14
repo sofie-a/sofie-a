@@ -1,9 +1,8 @@
-## Hi 👋 
-## I’m Ann-Sofie 
+## Hi 👋  I’m Ann-Sofie 
 
 Welcome to the page of a curious problem solver. I enjoy fighting with terminals and requests because the end result is worth it (atleast almost always 😅)
 
-Please check out my project to get a sneak peak into what has been keeping me busy lately 
+Check out my project to get a sneak peak into what has been keeping me busy lately 
 
 See you around in the coding universe 👩🏽‍💻
 <!---
